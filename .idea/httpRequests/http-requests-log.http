@@ -1,0 +1,524 @@
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Pass@word01!
+
+<> 2023-11-10T175408.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 89
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+jdbc:mysql://123.56.4.32/order_goods?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+
+<> 2023-11-10T174453.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+123.56.4.32:5672
+
+<> 2023-11-10T174244.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+123.56.4.32
+
+<> 2023-11-10T173728.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+guest
+
+<> 2023-11-10T173033.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Accept: application/x-www-form-urlencoded
+Content-Length: 5
+Content-Type: */*; charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+guest
+
+<> 2023-11-10T172945.200.www-form-urlencoded
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-10T140332.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Pass@word01!
+
+<> 2023-11-10T140041.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Pass@word01!
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Pass@word01!
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=910E2B6359B1F0675376CE1B7B09CEA1
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=B2EA818CB734FB7D10945503D17E171B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=B2EA818CB734FB7D10945503D17E171B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+Pass@word01!
+
+<> 2023-11-10T114903.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-10T114515.200.txt
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-10T113835.500.json
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-10T113706.500.json
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=0393F46D51FC7FF91A3A126599A03DAD
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:8039/encrypt
+Content-Type: application/json
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T195425.200.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T195106.404.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T195059.404.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T194738.404.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T194638.404.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T194546.404.json
+
+###
+
+POST http://localhost:9060/actuator/refresh
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T194451.404.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T115823.200.txt
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T115816.400.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T115814.400.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T115803.200.txt
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T115605.404.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T115412.404.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T115127.404.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T114919.400.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-09T114847.400.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T114718.404.json
+
+###
+
+POST http://localhost:8030/encrypt
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+root
+
+<> 2023-11-09T114422.404.json
+
+###
+

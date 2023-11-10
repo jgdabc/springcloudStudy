@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-split-call" />
+        <module name="config-server-split-call" />
+        <module name="config-server" />
+        <module name="cloud_eruka" />
+        <module name="config-client" />
+        <module name="userservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server (1)" target="1.8" />
+      <module name="config-server (2)" target="1.8" />
+      <module name="eureka" target="17" />
+      <module name="orderseevice" target="17" />
+      <module name="orderservice" target="1.8" />
+      <module name="service split" target="17" />
+      <module name="userservice (1)" target="17" />
+      <module name="userservice (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud_eruka" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-server (1)" options="-parameters" />
+      <module name="config-server (2)" options="-parameters" />
+      <module name="config-server-split-call" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="orderseevice" options="-parameters" />
+      <module name="orderservice" options="-parameters" />
+      <module name="service split" options="-parameters" />
+      <module name="service-split-call" options="-parameters" />
+      <module name="springcloudStudy" options="" />
+      <module name="userservice" options="-parameters" />
+      <module name="userservice (1)" options="-parameters" />
+      <module name="userservice (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-09T03:58:14.121+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/encrypt"
+}
